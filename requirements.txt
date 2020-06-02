@@ -39,7 +39,7 @@ gunicorn==19.9.0
 gym==0.10.5
 h5py==2.8.0
 html5lib==1.0.1
-httplib2==0.11.3
+httplib2==0.18.0
 idna==2.7
 imageio==2.3.0
 import-ipynb==0.1.3
